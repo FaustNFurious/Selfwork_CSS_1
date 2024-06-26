@@ -1,0 +1,63 @@
+*{
+    font-family: "Oswald", sans-serif;
+}
+
+body {
+    background-image: linear-gradient(rgba(255,255,255,0.4), rgba(255,255,255,0.7)), url(./Media/Background-Image-Page-1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header {
+    color: aqua;    
+}
+
+.Home-Page-1 {
+    color: aqua;
+    text-decoration: none;
+}
+
+h3 {
+    color: yellow;
+}
+
+.First-section-Page-1 > p {
+    color: aqua;
+}
+
+.First-article-First-section-Page-1 {
+    color: black;
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+}
+
+.Second-article-First-section-Page-1 {
+    color: black;
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+}
+
+.Third-article-First-section-Page-1 {
+    color: black;
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+}
+
+.Fourth-article-First-section-Page-1 {
+    color: black;
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+}
+
+.First-article-Second-section-Page-1 {
+    color: black;
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+}
+
+.First-article-Third-section-Page-1 {
+    color: black;
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+}

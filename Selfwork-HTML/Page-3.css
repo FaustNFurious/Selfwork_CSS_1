@@ -1,0 +1,79 @@
+*{
+    font-family: "Oswald", sans-serif;
+}
+
+body {
+    background-image: url(./Media/Background-Image-Page-3.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header {
+    color: aqua;
+}
+
+.Home-Page-3 {
+    color: aqua;
+    text-decoration: none;
+}
+
+h2 {
+    color: yellow;
+}
+
+h3 {
+    color: yellow;
+}
+
+.First-section-Page-3 > p {
+    color: aqua;
+}
+
+.First-article-First-section-Page-3 {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+}
+
+.First-article-Second-section-Page-3 {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+}
+
+.First-article-Third-section-Page-3 {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+}
+
+.First-article-Fourth-section-Page-3 {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+}
+
+.First-article-Fifth-section-Page-3 {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+}
+
+.First-article-Sixth-section-Page-3 {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+}
+
+.First-article-Seventh-section-Page-3 {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+}
+
+.First-article-Eighth-section-Page-3 {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+}

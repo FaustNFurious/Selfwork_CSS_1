@@ -1,0 +1,52 @@
+*{
+    font-family: "Oswald", sans-serif;
+}
+
+body {
+    background-image: linear-gradient(rgba(255,255,255,0.4), rgba(255,255,255,0.7)), url(./Media/Background-Image-Home-Page.jpg); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; 
+}
+
+header > h1, p {
+    color: aqua;
+    
+}
+
+h2 {
+    color: black;
+    text-align: center;    
+}
+
+h3 {
+    color: yellow;
+}
+
+.First-section {
+    color: black;
+    text-align: justify;
+    font-family: "Roboto", sans-serif;
+}
+
+.Second-section {
+    color: black;
+    text-align: justify;
+    font-family: "Roboto", sans-serif;
+}
+
+.Third-section {
+    color: black;
+    text-align: justify;
+    font-family: "Roboto", sans-serif;
+}
+
+.Button-Read-All {
+    background-color: white;
+    color: black;
+}
+
+.Button-Read-All:hover {
+    background-color: yellow;
+    color: black;
+}
